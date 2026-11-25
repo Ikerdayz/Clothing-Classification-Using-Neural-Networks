@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+
+# Data files
+*.csv
+
+# Temporary files
+.ipynb_checkpoints/
+.DS_Store
